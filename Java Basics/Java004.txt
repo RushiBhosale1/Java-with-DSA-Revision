@@ -1,0 +1,17 @@
+Variables in java
+Variables are those whose values can change
+eg a=10, b=5
+
+Identifiers:
+Name of variable, function, print, println, etc
+in above example a and b are identifiers
+
+Literal
+are those whose values can't change
+eg 2,5,6,a,$,
+
+Memory:
+when variable is created then block of memory is allocated and we can say name of block is variable name.
+Address is also there for each block eg 1000,1001 it is very huge address
+It is not neccessary that each block has same size
+

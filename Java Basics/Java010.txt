@@ -1,0 +1,11 @@
+Input in Java
+
+next   String without space
+nextLine     string with space
+nextInt      
+nextByte
+nextFloat
+nextDouble
+nextBoolean
+NextShort
+nextLong

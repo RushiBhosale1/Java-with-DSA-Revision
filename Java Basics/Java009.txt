@@ -1,0 +1,9 @@
+Comments in Java
+
+// Hi there
+
+/*
+Hi there!
+*/
+
+-Used to understand code

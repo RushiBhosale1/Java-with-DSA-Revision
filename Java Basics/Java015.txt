@@ -1,0 +1,7 @@
+Type Conversion/Widening Conversion/Implicit Conversion
+Conversion happens when:
+a. type comatible   int<->float
+b. destination type > sourse type
+
+
+byte->short->int->float->long->double
