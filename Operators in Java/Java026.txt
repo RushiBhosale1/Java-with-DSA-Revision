@@ -1,0 +1,23 @@
+Oprarors in Java
+Symbols that tell compiler to perform some operation
+
+sum = a + b
+a,b=operands
++ = operator
+
+Types of Operators
+-Arithmetic Operators(Binany/Unary/Ternary)
+-Relational Operators
+-Logical Operators
+-Bitwise Operators (Bit Manipulation)
+-Assignment Operators
+
+
+
+1. Arithmetic Operators
+Binary - 2 operands
++ -> A+B=10+5=15
+- -> A-B=10-5=5
+* -> A*B=10*5=50
+/ -> A/B=10/5=2
+%(modulo) -> 10%5=0
