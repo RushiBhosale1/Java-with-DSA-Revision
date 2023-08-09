@@ -1,0 +1,18 @@
+
+JDK -> JRE And Devlopment Tools
+JRE -> JVM and Libraries
+JVM 
+
+
+How is our Code Running
+Source Code(.java) -> Compiler -> Byte Code(.class) -> JVM -> Native Code
+                       Javac                       OS, Hardware
+
+
+Native Code is different for windows, mac, etc. It is in form of 0s 1s
+Byte code is same
+
+So java is portable language
+
+
+Compilation compiles code and check code is error less
